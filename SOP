@@ -9,7 +9,19 @@ I am eager to join the AI Community of IITB as a junior engineer . I was always 
 I have already started learning about ML but not enough to build something but I'm learning about it more . I have learned many things from the Assignments, although I have faced many difficulties,I have overcome them by visiting many forums, mainly stackoverflow and pytorch forums, by using chat gpt,copilot and by watching random videos.
 I know that to be a junior engineer in the AI community requires a lot of effort and knowledge about AI and right now I don't know much about AI but I’m very enthusiastic about this community and I pledge to complete the tasks on time because I will get to learn more about AI by contributing to the community.
 
+enthusiasm = True
 
+def got_selected():
+    print("Your learning vs time curve is https://bestmaths.net/online/files/1813/8620/6841/Y11_Exponential_Functions_05.gif")
+
+def not_selected():
+    print("Your learning vs time curve is http://img.sparknotes.com/figures/3/38f8bc3b42ee5deba6aa2de65eeb48dd/y=x.gif")
+
+if (enthusiasm):
+    got_selected()
+
+else:
+    not_selected()
 
 I hope that you will give me this opportunity to become a junior engineer and I will obtain enough knowledge to pursue and master AI and ML and hopefully in future  transfer the knowledge to my juniors.
 
